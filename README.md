@@ -7,7 +7,8 @@
 - Healthcare
 
 ### Problem Statement 
-While both men and women contract various conditions, some health issues affect women differently and more commonly. Furthermore, many women’s health conditions go undiagnosed and most drug trials do not include female test subjects. Even so, women bear exclusive health concerns, such as Breast Cancer, PCOD/PCOS, Uterine Fibroids. Depression and anxiety exhibit more frequently among female patients. Sometimes women neglect or feel hesitant visiting Gynocholigist and this reluctance results in severe health issues.
+While both men and women contract various conditions, some health issues affect women differently and more commonly. Furthermore, many women’s health conditions go undiagnosed and most drug trials do not include female test subjects. Even so, women bear exclusive health concerns, such as Breast Cancer, PCOD/PCOS, Uterine Fibroids. Depression and anxiety exhibit more frequently among female patients. Sometimes women neglect or feel hesitant visiting 
+Gynecologist and this reluctance results in severe health issues.
 
 ### Solution
 # APARAJITA
